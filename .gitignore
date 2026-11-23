@@ -1,0 +1,18 @@
+# Données du challenge (non redistribuables)
+train/
+test/
+train_labels.csv
+*.zip
+
+# Artefacts générés
+cache/
+outputs/
+submission.csv
+*.pt
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
